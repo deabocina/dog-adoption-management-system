@@ -13,6 +13,11 @@ The Dog Adoption Management System is a Java application designed for a dog adop
   - [Prospective Adopters Features](#prospective-adopters-features)
 - [Database](#database)
 
+![Screenshot (6)](https://github.com/deabocina/dog-adoption-management-system/assets/140092973/191e7a64-316e-48c7-ae05-2ee0a2c8054b)
+![Screenshot (7)](https://github.com/deabocina/dog-adoption-management-system/assets/140092973/26512423-c677-4219-83e2-86f78daa8957)
+![Screenshot (12)](https://github.com/deabocina/dog-adoption-management-system/assets/140092973/559ee282-b151-4837-bca2-7855e259ea85)
+![Screenshot (13)](https://github.com/deabocina/dog-adoption-management-system/assets/140092973/367e38c9-e2c8-4a6d-9877-0a9e00e2fde0)
+
 ## Key Features
 
 ### Adoption Progress Tracking
