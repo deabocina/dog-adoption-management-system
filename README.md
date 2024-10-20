@@ -44,5 +44,5 @@ As the highest level of authority, administrators have access to a comprehensive
 
 
 ## Database
-![277793143-5e1325f4-cd50-42c0-8e7f-14cef55334ff](https://github.com/deabocina/dog-adoption-management-system/assets/140092973/4f4e23d4-f88b-4ec1-aa46-488c5c43048c)
+![db](https://github.com/user-attachments/assets/2b9c6bb1-03d2-4c7d-9a4d-df27c4d69e8f)
 
